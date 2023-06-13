@@ -1,3 +1,3 @@
-# [Your plugin name]
+# Slug Redirects
 
-[Describe what your plugin does, and how users you can configure it! Screenshots are always welcome!]
+A plugin that allows you to delete all unused assets with the click of a button.
